@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(185, 141, 123);
+}
+.sal{
+    font-family: 'Bush Script MT', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sal-im{
+    border: 5px solid #000000;
+}
+
+ol{
+    font-family: 'Garamond',sans-serif;
+    font-size: 16px;
+}
+p{
+    font-family: 'Garamond',sans-serif;
+    font-size: 16px;
+}
+.pan-im{
+    border: 5px solid #000000;
+}
